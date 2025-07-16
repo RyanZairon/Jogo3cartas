@@ -1,4 +1,4 @@
-# Jogo3cartas
+# Jogo 3 cartas.
 
 Meu primeiro jogo feito na disciplina de Lógica de Programação.
 
